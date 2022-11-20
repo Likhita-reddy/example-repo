@@ -1,3 +1,3 @@
 #Example Repository
 
-Welcome yo Git repository
+Welcome to Git repository
